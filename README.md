@@ -1,2 +1,3 @@
 # Omni-OS-Project
-The 5-in-1 OS project aims to develop a comprehensive operating system with a simple shell, efficient process manager, smart memory allocator, user-friendly file system viewer, and a built-in calculator. 
+The 5-in-1 OS project aims to develop a comprehensive operating system with a simple shell, efficient process manager, smart memory allocator, user-friendly file system viewer, and a built-in calculator. This integrated system enhances user productivity, automates tasks
+manages processes effectively, optimizes memory usage, streamlines file navigation, and simplifies mathematical computations. The project's goal is to provide a cohesive, versatile, and user-centric computing environment that caters to various needs, from system management to productivity, all within a single, intuitive interface. 
