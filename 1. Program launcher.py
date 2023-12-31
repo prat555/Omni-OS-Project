@@ -1,4 +1,4 @@
-# program_launcher.p
+# program_launcher.py
 
 import os
 import subprocess
